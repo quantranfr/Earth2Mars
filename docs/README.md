@@ -2,7 +2,7 @@
 
 The objectif is to make a big version of the animated photo below onto a wall:
 
-...
+![](img/InSight_Trajectory.gif)
 
 ## Pre-requisite
 
@@ -56,6 +56,6 @@ Red  : 01          18          19          20          17
 
 ![](img/animation-design_LED4U.PNG)
 
-At the end, here's how things turn out: (with mockup LEDs only):
+At the end, here's how things turn out with mockup LEDs (**click to play the video**):
 
-[![](img/delay_circuit.jpeg)](https://youtu.be/i9UpN63B83E)
+[![](img/delay_circuit.png)](https://youtu.be/i9UpN63B83E)
