@@ -4,6 +4,8 @@ The objectif is to make a big version of the animated photo below onto a wall:
 
 ![](img/InSight_Trajectory.gif)
 
+Image courtesy: NASA
+
 ## Pre-requisite
 
 **Material**
